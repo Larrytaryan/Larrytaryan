@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me larrybaraza3@gmail.com
+- 📫 How to reach me larrybaraza8@gmail.com
 - i am also handling android development with kotlin,looking forwwad to understand android development intensively
 - i am also good in networking
 
