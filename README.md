@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Larry Baraza
-- 👀 Web Application :Backend development
+- 👀 Web Application
+-   :Backend development
+      ExpressJs framework
+    :FrontEnd development
+      Angular     
 -  JAVA & kotlin mobile application developer
-- 🌱 I’m currently learning Java web applications,(JSP,SERVLETS)
+- 🌱  Java web applications,(JSP,SERVLETS)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me larrybaraza8@gmail.com
 - i am also handling android development with java & kotlin,looking forwwad to understand android development intensively
