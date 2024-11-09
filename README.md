@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Larry Baraza
-- 👀 Web Application
+- 👀 Web Application Full stack Developer
 -   :Backend development
       ExpressJs framework
     :FrontEnd development
